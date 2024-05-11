@@ -11,7 +11,7 @@ int main(){
     cin>>nums[i];
 
     cin>>target;
-    for(int i=0,j=0;j<n-target;j++){
+    for(int i=0,j=0;j<target;j++){
                 nums.push_back(nums[i]);
         nums.erase(nums.begin());
 
