@@ -54,8 +54,7 @@ int main(){
 
     //default constructor
 
-    Rectangle r1;
-    cout<<r1.l<<" "<<r1.b<<endl;
+   
     return 0;
 }
 // to run code ctrl+alt+n
@@ -72,15 +71,7 @@ int main(){
 //copy
 
 
-class Rectangle{
-    public:
-    int l;
-    int b;
-Rectangle(){// default constructor--no args passed
-    l=0;
-    b=0;
-}
-};
+
 
 
 
