@@ -10,8 +10,8 @@ I primarily focus on improving my problem-solving skills ,coding efficiency, and
 
 ### LeetCode ,CodeChef
 
-I frequently solve problems on [Leetcode](https://leetcode.com/)  to sharpen my skills and challenge myself with a variety of coding problems.You can check out my profile and soluctions [here]
-(https://leetcode.com/u/an_gu2005/)
+I frequently solve problems on [Leetcode](https://leetcode.com/u/an_gu2005/)  to sharpen my skills and challenge myself with a variety of coding problems.You can check out my profile and soluctions
+
 I'm also active on [codeChef](https://www.codechef.com/users/anmolgupta15)
 
 
